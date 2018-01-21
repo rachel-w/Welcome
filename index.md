@@ -1,4 +1,4 @@
-# Welcome to Rachel Wey's GitHub Page!
+# This is Rachel Wey's GitHub Page!
 
 ## A bit about me
 
