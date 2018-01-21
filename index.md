@@ -6,6 +6,8 @@ I am graduating from Montclair State University with a Bachelors of Science in C
 I also have three years of phone and desktop support experience with MSU's IT Service Desk.
 I'm passionate about projects that help creators (musicians, artists, YouTube/filmmakers,etc.), push boundaries and help resolve social issues.
 
+Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
+
 ### What's going on right now?
 
 I'm looking into blockchain at the moment.
