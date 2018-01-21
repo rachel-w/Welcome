@@ -1,16 +1,19 @@
 # Welcome to Rachel Wey's GitHub Page!
 
 ## A bit about me
+
 I am graduating from Montclair State University with a Bachelors of Science in Computer Science in May 2018.
 I also have three years of phone and desktop support experience with MSU's IT Service Desk.
 I'm passionate about projects that help creators (musicians, artists, YouTube/filmmakers,etc.), push boundaries and help resolve social issues.
 
 ### What's going on right now?
+
 I'm looking into blockchain at the moment.
 This includes web development for blockchain and ethereum and learning to program with Solidity.
 Unity3D and more front-end development are next on the list.
 
 ### Some of my repositories
+
 [An e-commerce store with a relational database](https://github.com/rachel-w/Bobs-Music-Store)
 This was part of a group project for a Databases course. We also made an ER diagram.
 
