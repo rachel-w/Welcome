@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Rachel Wey's GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/rachel-w/mypage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# What's going on right now?
+I'm looking into blockchain at the moment.
+This includes web development for blockchain and ethereum and learning to program with Solidity
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Some of my repositories
+[An e-commerce store with a relational database](https://github.com/rachel-w/Bobs-Music-Store)
+This was part of a group project for a Databases course. We also made an ER diagram.
 
-### Markdown
+[Sortable Array Lists](https://github.com/rachel-w/sortable-array-lists)
+From a data structures and algorithms class. 
+The goal was to implement the stack ADT and sort the array lists with different sorting algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachel-w/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[My first blog](https://github.com/rachel-w/my-first-blog)
+The product of using the Django Girls tutorial to learn more about front-end web development and Django
