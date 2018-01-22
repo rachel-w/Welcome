@@ -31,7 +31,10 @@ The goal was to implement the stack ADT and sort the array lists with different 
 
 The product of using the Django Girls tutorial to learn more about front-end web development and Django
 
+[Blockchain Web Development](https://github.com/rachel-w/blockchainWeb)
 
+Based on Vlad Wulf's "Blockchain Developer Essentials" YouTube tutorials.
+A simple page that pulls an address from TestRPC blockchain when clicking the "Contact Server" button. I wanted to dip my toes in web development for blockchain. I stumbled upon this tutorial when looking for videos on Solidity.
 
 [YouTube Scrapers](https://github.com/rachel-w/YouTubeCategorize)
 
