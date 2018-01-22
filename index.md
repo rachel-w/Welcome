@@ -11,7 +11,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
 ### What's going on right now?
 
 I'm looking into blockchain at the moment.
-This includes web development for blockchain and ethereum and learning to program with Solidity.
+This includes web development for blockchain, Ethereum and learning to program with Solidity.
 Unity3D and more front-end development are next on the list.
 
 ### Some of my repositories
