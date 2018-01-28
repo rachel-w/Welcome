@@ -9,10 +9,10 @@ I'm passionate about projects that help creators (musicians, artists, YouTube/fi
 Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
 
 ### What's going on right now?
-
-I'm looking into blockchain at the moment.
+I'm working and taking six classes this semester. I've been dedicating some of my spare time to learning about blockchain technology.
 This includes web development for blockchain, Ethereum and learning to program with Solidity.
-Unity3D and more front-end development are next on the list.
+Android app development may come after.
+
 
 ### Some of my repositories
 
@@ -20,6 +20,10 @@ Unity3D and more front-end development are next on the list.
 
 This was part of a group project for a Databases course. We also made an ER diagram.
 
+[SecureSense](https://github.com/rachel-w/SecureSense)
+
+From my software engineering class.
+A means of security over a wide-area network. The user makes an account which is then verified by clicking a link sent to their email.
 
 [Sortable Array Lists](https://github.com/rachel-w/sortable-array-lists)
 
@@ -33,7 +37,6 @@ The product of using the Django Girls tutorial to learn more about front-end web
 
 [Blockchain Web Development](https://github.com/rachel-w/blockchainWeb)
 
-Based on Vlad Wulf's "Blockchain Developer Essentials" YouTube tutorials.
 A simple page that pulls an address from TestRPC blockchain when clicking the "Contact Server" button. I wanted to dip my toes in web development for blockchain. I stumbled upon this tutorial when looking for videos on Solidity.
 
 [YouTube Scrapers](https://github.com/rachel-w/YouTubeCategorize)
