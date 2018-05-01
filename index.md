@@ -9,11 +9,15 @@ I'm passionate about projects that help creators (musicians, artists, YouTube/fi
 Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
 
 ### What's going on right now?
-I'm working and taking six classes this semester. I've been dedicating some of my spare time to learning about decentralization.
-To be more specific, I'm reading up on the Ethereum blockchain (how it works, its limits, etc.) as well as how to use Ganache, Truffle and create Dapps.
+I'm wrapping up my B.S. in Computer Science! ESKETIT! Still learning more about the Ethereum Blockchain. I've been doing a few Smart Contract tutorials and am planning to try writing my own contract once finals are over. I also managed to read about and practice using Truffle, Metamask and Ganache. I'd like to jump into this 
 
 
 ### Some of my repositories
+[Ethereum Casino](https://github.com/rachel-w/casino-ethereum)
+
+In which I learned about Dapps by creating a betting game where you pick a number between 1 and 10.
+It's not truly random at the moment and therefore not totally secure. I have to understand how to use an oraclize to fix that.
+
 [Blockchain Web Development](https://github.com/rachel-w/blockchainWeb)
 
 A simple page that pulls an address from TestRPC blockchain when clicking the "Contact Server" button. I wanted to dip my toes in web development for blockchain. I stumbled upon this tutorial when looking for videos on Solidity.
