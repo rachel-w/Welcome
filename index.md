@@ -9,7 +9,7 @@ I'm passionate about projects that help creators (musicians, artists, YouTube/fi
 Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
 
 ### What's going on right now?
-I'm wrapping up my B.S. in Computer Science! ESKETIT! Still learning more about the Ethereum Blockchain. I've been doing a few Smart Contract tutorials and am planning to try writing my own contract once finals are over. I also managed to read about and practice using Truffle, Metamask and Ganache. I'd like to jump into this 
+I'm wrapping up my B.S. in Computer Science! Still learning more about the Ethereum Blockchain. I've been doing a few Smart Contract tutorials and am planning to try writing my own contract once finals are over. I also managed to read about and practice using Truffle, Metamask and Ganache. I'd like to jump into this 
 
 
 ### Some of my repositories
