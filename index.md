@@ -2,14 +2,14 @@
 
 ## A bit about me
 
-I am graduating from Montclair State University with a Bachelors of Science in Computer Science in May 2018.
+I just graduated from Montclair State University with a Bachelors of Science in Computer Science in May 2018.
 I also have nearly four years of phone and desktop support experience with MSU's IT Service Desk.
 I'm passionate about projects that help creators (musicians, artists, YouTube/filmmakers,etc.), push boundaries and help resolve social issues.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/rachel-wey-990b12150/)
 
 ### What's going on right now?
-I'm wrapping up my B.S. in Computer Science! Still learning more about the Ethereum Blockchain. I've been doing a few Smart Contract tutorials and am planning to try writing my own contract once finals are over. I also managed to read about and practice using Truffle, Metamask and Ganache. I'd like to jump into this 
+I'm looking around for opportunities for new graduates and enjoying my freedom. My Java has gotten rusty so I'm working on it and reviewing data structures and algorithms. I'm sure some projects will come of that.
 
 
 ### Some of my repositories
